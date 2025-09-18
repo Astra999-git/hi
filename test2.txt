@@ -1,1 +1,2 @@
 я файл test2.txt из feautre
+Изменение из ветки feautre
